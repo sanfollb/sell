@@ -7,6 +7,8 @@
 
 功能其他相关技术：图片字体的使用，  移动端1像素边框，  css sticky footer布局,  flex弹性布局等
 
+> 在线演示地址： https://sanfollb.github.io/sell/#/Goods
+
 
 使用： git clone 到本地文件夹，  npm install安装相关包管理工具，  npm run dev在本地8080端口查看项目效果（扫描二维码可在移动端查看）：
 
