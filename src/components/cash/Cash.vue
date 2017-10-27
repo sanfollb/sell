@@ -170,7 +170,6 @@ export default {
       this.showFlag = true;
       this.$nextTick(() => {
         if (!this.scroll) {
-          console.log(11);
           this.scroll = new BScroll(this.$refs['cash-content'], {click: true});
         } else {
           this.scroll.refresh();
